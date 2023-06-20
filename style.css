@@ -1,0 +1,22 @@
+body{
+background-color: aqua;
+display: grid;
+place-items: center;
+height: 100vh;
+}
+
+.hide {
+    display: none;
+}
+
+.screen1{
+text-align: center;
+
+}
+
+main{
+    background-color: antiquewhite;
+    width: min(482px, 90%);
+    align-items: center;
+    
+}
